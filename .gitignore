@@ -1,0 +1,13 @@
+*~
+*#
+.#*
+\#*#
+.*.sw[a-z]
+*.un~
+pkg/
+
+.vagrant
+
+.DS_Store
+
+mysqldata
